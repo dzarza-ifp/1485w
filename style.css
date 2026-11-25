@@ -1,0 +1,129 @@
+  body{ 
+            margin:0;
+            font-family: "Helvetica", sans-serif;}
+
+        div{    background: white;}
+
+        .primer {
+                background: #fff;
+                height: 40px;
+                overflow: hidden;}
+
+        .segon {
+                background-color: #6c3;
+                background-image: url(img/img-hero-full-list.png);
+                background-repeat:no-repeat;
+                background-size:;
+                background-position: 400px, 0;
+                height: 550px;
+                color: #666;}
+        
+        .tercer {
+                background: #fff;
+                height: 641px;
+                background-image: url(img/allinone.jpg);
+                background-repeat: no-repeat;
+                background-size: ;
+                background-position: 400px, 0;
+                color: #666;}
+
+        .quart {
+                background: #333;
+                height: 500px;
+                color: #ccc;
+                background-image: url(img/curator-short.png);
+                background-repeat: no-repeat;
+                background-size: ;
+                background-position: 400px, 0;}
+
+        .cinque {
+                background:#EEECEE;
+                height: 550px;
+                background-image: url(img/img-hero-full-list.png);
+                background-repeat: no-repeat;
+                background-size: ;
+                background-position: 400px, 0;
+                color: #666;}
+
+        .sise {
+                background: #6c3;
+                height: 550px;
+                background-image: url(img/mobile-share.png);
+                background-repeat: no-repeat;
+                background-size: 475px;
+                background-position: 400px, 0;
+                color: #666;}
+        
+        .sete {
+                background:#EEECEE;
+                height: 643px;
+                background-image: url(img/anywhere.png);
+                background-repeat: no-repeat;
+                background-size: ;
+                background-position: 400px, 0;
+                color: #666;}
+
+        .vuite {
+                background: #333;
+                height: 200px;
+                text-align: center;
+                padding: 20px;}
+        
+        .prova {
+                width: 400px;
+                height: 400px;
+                background: red;
+                overflow: hidden;}
+        
+        .petit {
+                width: 100px;
+                height: 100px;
+                background: orange;
+                border: yellow solid 0px;
+                margin: 0 auto;
+                padding: 50px;}
+
+        h1 {
+                width: 350px;
+                margin: 0;
+                padding: 25px;
+                text-align: center;}
+
+        p {
+                width: 350px;
+                margin: 0px;
+                padding: 5px 25px;
+                line-height: 22px;
+                font-size: 18px;}
+
+        a {
+                font-size: 13px;
+                margin: 20px;}
+
+        li {
+                display: inline-block;
+                padding: 7px;
+                background-color: #6c3;
+                color: #fff; 
+                height: 30px;
+                border-radius: 4px;}
+
+        ul { 
+                display: inline;}
+
+        .torna {
+                width: 100px;
+                height: 100px;
+                background: #6c3;
+                position: fixed;
+                bottom: 50px;
+                right: 50px;     
+                border-radius: 50%;
+                padding: 0;
+                box-shadow: 5px 5px 5px black;
+                text-align: center;
+                line-height: 120px;
+                color: #fff;
+                font-size: 72px;
+                
+        } 
